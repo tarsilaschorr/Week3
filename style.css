@@ -95,7 +95,7 @@ p {
     font-size: 55px;
   }
   h2 {
-    font-size: 38px;
+    font-size: 28px;
   }
 
   .remove {
@@ -110,5 +110,19 @@ p {
   }
   h3.text-center {
     font-size: 20px;
+  }
+  div.resize {
+    text-align: center;
+  }
+  div.col-6 {
+    margin: 0 auto;
+  }
+  .resize {
+    padding: 10px 5px;
+    font-size: 10px;
+  }
+  p {
+    text-align: justify;
+    margin-bottom: 0;
   }
 }
